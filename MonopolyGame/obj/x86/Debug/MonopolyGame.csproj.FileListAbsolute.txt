@@ -1,0 +1,237 @@
+D:\TeamBlade\MonopolyGame\MonopolyGame\MonopolyGame\bin\Windows\Debug\MonopolyGame.exe
+D:\TeamBlade\MonopolyGame\MonopolyGame\MonopolyGame\bin\Windows\Debug\MonopolyGame.pdb
+D:\TeamBlade\MonopolyGame\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+D:\TeamBlade\MonopolyGame\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.dll
+D:\TeamBlade\MonopolyGame\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.XAudio2.dll
+D:\TeamBlade\MonopolyGame\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.Direct3D11.dll
+D:\TeamBlade\MonopolyGame\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.Direct2D1.dll
+D:\TeamBlade\MonopolyGame\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.DXGI.dll
+D:\TeamBlade\MonopolyGame\MonopolyGame\MonopolyGame\bin\Windows\Debug\Lidgren.Network.dll
+D:\TeamBlade\MonopolyGame\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.XInput.dll
+D:\TeamBlade\MonopolyGame\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.RawInput.dll
+D:\TeamBlade\MonopolyGame\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.Direct3D9.dll
+D:\TeamBlade\MonopolyGame\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+D:\TeamBlade\MonopolyGame\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.xml
+D:\TeamBlade\MonopolyGame\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.XAudio2.xml
+D:\TeamBlade\MonopolyGame\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.Direct3D11.xml
+D:\TeamBlade\MonopolyGame\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.Direct2D1.xml
+D:\TeamBlade\MonopolyGame\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.DXGI.xml
+D:\TeamBlade\MonopolyGame\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.XInput.xml
+D:\TeamBlade\MonopolyGame\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.RawInput.xml
+D:\TeamBlade\MonopolyGame\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.Direct3D9.xml
+D:\TeamBlade\MonopolyGame\MonopolyGame\MonopolyGame\obj\x86\Debug\MonopolyGame.csprojResolveAssemblyReference.cache
+D:\TeamBlade\MonopolyGame\MonopolyGame\MonopolyGame\obj\x86\Debug\MonopolyGame.exe
+D:\TeamBlade\MonopolyGame\MonopolyGame\MonopolyGame\obj\x86\Debug\MonopolyGame.pdb
+D:\TeamBlade\MonopolyGame\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\mainBoard.jpg
+D:\TeamBlade\MonopolyGame\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\pawn1.png
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\teamblade-33223\MonopolyGame\MonopolyGame\obj\x86\Debug\MonopolyGame.exe
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\teamblade-33223\MonopolyGame\MonopolyGame\obj\x86\Debug\MonopolyGame.pdb
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\teamblade-33223\MonopolyGame\MonopolyGame\bin\Windows\Debug\MonopolyGame.exe
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\teamblade-33223\MonopolyGame\MonopolyGame\bin\Windows\Debug\MonopolyGame.pdb
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\teamblade-33223\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\teamblade-33223\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.dll
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\teamblade-33223\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\teamblade-33223\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\teamblade-33223\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\teamblade-33223\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\teamblade-33223\MonopolyGame\MonopolyGame\bin\Windows\Debug\Lidgren.Network.dll
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\teamblade-33223\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\teamblade-33223\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\teamblade-33223\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\teamblade-33223\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\teamblade-33223\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.xml
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\teamblade-33223\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\teamblade-33223\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\teamblade-33223\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\teamblade-33223\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\teamblade-33223\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\teamblade-33223\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\teamblade-33223\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\teamblade-33223\MonopolyGame\MonopolyGame\obj\x86\Debug\MonopolyGame.csprojResolveAssemblyReference.cache
+C:\Users\Dancer\Source\Workspaces\TeamBlade\MonopolyActual\MonopolyGame\MonopolyGame\bin\Windows\Debug\MonopolyGame.exe
+C:\Users\Dancer\Source\Workspaces\TeamBlade\MonopolyActual\MonopolyGame\MonopolyGame\bin\Windows\Debug\MonopolyGame.pdb
+C:\Users\Dancer\Source\Workspaces\TeamBlade\MonopolyActual\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Dancer\Source\Workspaces\TeamBlade\MonopolyActual\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.dll
+C:\Users\Dancer\Source\Workspaces\TeamBlade\MonopolyActual\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Dancer\Source\Workspaces\TeamBlade\MonopolyActual\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Dancer\Source\Workspaces\TeamBlade\MonopolyActual\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Dancer\Source\Workspaces\TeamBlade\MonopolyActual\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Dancer\Source\Workspaces\TeamBlade\MonopolyActual\MonopolyGame\MonopolyGame\bin\Windows\Debug\Lidgren.Network.dll
+C:\Users\Dancer\Source\Workspaces\TeamBlade\MonopolyActual\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Dancer\Source\Workspaces\TeamBlade\MonopolyActual\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Dancer\Source\Workspaces\TeamBlade\MonopolyActual\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Dancer\Source\Workspaces\TeamBlade\MonopolyActual\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Dancer\Source\Workspaces\TeamBlade\MonopolyActual\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.xml
+C:\Users\Dancer\Source\Workspaces\TeamBlade\MonopolyActual\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Dancer\Source\Workspaces\TeamBlade\MonopolyActual\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Dancer\Source\Workspaces\TeamBlade\MonopolyActual\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Dancer\Source\Workspaces\TeamBlade\MonopolyActual\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Dancer\Source\Workspaces\TeamBlade\MonopolyActual\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Dancer\Source\Workspaces\TeamBlade\MonopolyActual\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Dancer\Source\Workspaces\TeamBlade\MonopolyActual\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Dancer\Source\Workspaces\TeamBlade\MonopolyActual\MonopolyGame\MonopolyGame\obj\x86\Debug\MonopolyGame.csprojResolveAssemblyReference.cache
+C:\Users\Dancer\Source\Workspaces\TeamBlade\MonopolyActual\MonopolyGame\MonopolyGame\obj\x86\Debug\MonopolyGame.exe
+C:\Users\Dancer\Source\Workspaces\TeamBlade\MonopolyActual\MonopolyGame\MonopolyGame\obj\x86\Debug\MonopolyGame.pdb
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\teamblade-33223\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\Active.png
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\teamblade-33223\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\Buy.png
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\teamblade-33223\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\Clicked.png
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\teamblade-33223\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\Hover.png
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\teamblade-33223\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\OwnerBlue.png
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\teamblade-33223\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\OwnerRed.png
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\teamblade-33223\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\pawn_blue.png
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\teamblade-33223\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\pawn_red.png
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\teamblade-33223\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\FInalBoard.png
+C:\Users\Dancer\Source\Workspaces\TeamBlade\MonopolyActual\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\Active.png
+C:\Users\Dancer\Source\Workspaces\TeamBlade\MonopolyActual\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\Buy.png
+C:\Users\Dancer\Source\Workspaces\TeamBlade\MonopolyActual\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\Clicked.png
+C:\Users\Dancer\Source\Workspaces\TeamBlade\MonopolyActual\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\FInalBoard.png
+C:\Users\Dancer\Source\Workspaces\TeamBlade\MonopolyActual\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\Hover.png
+C:\Users\Dancer\Source\Workspaces\TeamBlade\MonopolyActual\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\OwnerBlue.png
+C:\Users\Dancer\Source\Workspaces\TeamBlade\MonopolyActual\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\OwnerRed.png
+C:\Users\Dancer\Source\Workspaces\TeamBlade\MonopolyActual\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\pawn_blue.png
+C:\Users\Dancer\Source\Workspaces\TeamBlade\MonopolyActual\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\pawn_red.png
+C:\Users\Dancer\Source\Workspaces\TeamBlade\MonopolyActual\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\NoBuy.png
+C:\Users\Dancer\Source\Workspaces\TeamBlade\MonopolyActual\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\Arial.xnb
+D:\Telerik\C# 2\TEAM PROJECT\MonopolyActual\MonopolyGame\MonopolyGame\obj\x86\Debug\MonopolyGame.exe
+D:\Telerik\C# 2\TEAM PROJECT\MonopolyActual\MonopolyGame\MonopolyGame\obj\x86\Debug\MonopolyGame.pdb
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\teamblade-33223\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\NoBuy.png
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\teamblade-33223\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\Arial.xnb
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\teamblade-33223\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\BuyClicked.png
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\teamblade-33223\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\Hoverbuy.png
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\teamblade-33223\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\1.png
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\teamblade-33223\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\2.png
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\teamblade-33223\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\3.png
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\teamblade-33223\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\4.png
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\teamblade-33223\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\5.png
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\teamblade-33223\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\6.png
+C:\Users\Woo\Desktop\New folder\MonopolyGame\MonopolyGame\obj\x86\Debug\MonopolyGame.exe
+C:\Users\Woo\Desktop\New folder\MonopolyGame\MonopolyGame\obj\x86\Debug\MonopolyGame.pdb
+C:\Users\Woo\Desktop\New folder\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\1.png
+C:\Users\Woo\Desktop\New folder\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\2.png
+C:\Users\Woo\Desktop\New folder\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\3.png
+C:\Users\Woo\Desktop\New folder\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\4.png
+C:\Users\Woo\Desktop\New folder\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\5.png
+C:\Users\Woo\Desktop\New folder\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\6.png
+C:\Users\Woo\Desktop\New folder\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\Active.png
+C:\Users\Woo\Desktop\New folder\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\Buy.png
+C:\Users\Woo\Desktop\New folder\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\BuyClicked.png
+C:\Users\Woo\Desktop\New folder\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\Clicked.png
+C:\Users\Woo\Desktop\New folder\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\FInalBoard.png
+C:\Users\Woo\Desktop\New folder\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\Hover.png
+C:\Users\Woo\Desktop\New folder\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\Hoverbuy.png
+C:\Users\Woo\Desktop\New folder\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\NoBuy.png
+C:\Users\Woo\Desktop\New folder\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\OwnerBlue.png
+C:\Users\Woo\Desktop\New folder\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\OwnerRed.png
+C:\Users\Woo\Desktop\New folder\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\pawn_blue.png
+C:\Users\Woo\Desktop\New folder\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\pawn_red.png
+C:\Users\Woo\Desktop\New folder\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\Arial.xnb
+C:\Users\Woo\Desktop\New folder\MonopolyGame\MonopolyGame\bin\Windows\Debug\MonopolyGame.exe
+C:\Users\Woo\Desktop\New folder\MonopolyGame\MonopolyGame\bin\Windows\Debug\MonopolyGame.pdb
+C:\Users\Woo\Desktop\New folder\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Woo\Desktop\New folder\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.dll
+C:\Users\Woo\Desktop\New folder\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Woo\Desktop\New folder\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Woo\Desktop\New folder\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Woo\Desktop\New folder\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Woo\Desktop\New folder\MonopolyGame\MonopolyGame\bin\Windows\Debug\Lidgren.Network.dll
+C:\Users\Woo\Desktop\New folder\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Woo\Desktop\New folder\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Woo\Desktop\New folder\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Woo\Desktop\New folder\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Woo\Desktop\New folder\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.xml
+C:\Users\Woo\Desktop\New folder\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Woo\Desktop\New folder\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Woo\Desktop\New folder\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Woo\Desktop\New folder\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Woo\Desktop\New folder\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Woo\Desktop\New folder\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Woo\Desktop\New folder\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Woo\Desktop\New folder\MonopolyGame\MonopolyGame\obj\x86\Debug\MonopolyGame.csprojResolveAssemblyReference.cache
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\MonopolyGameFinal\MonopolyGame\MonopolyGame\obj\x86\Debug\MonopolyGame.exe
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\MonopolyGameFinal\MonopolyGame\MonopolyGame\obj\x86\Debug\MonopolyGame.pdb
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\MonopolyGameFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\1.png
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\MonopolyGameFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\2.png
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\MonopolyGameFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\3.png
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\MonopolyGameFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\4.png
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\MonopolyGameFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\5.png
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\MonopolyGameFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\6.png
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\MonopolyGameFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\Active.png
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\MonopolyGameFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\Buy.png
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\MonopolyGameFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\BuyClicked.png
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\MonopolyGameFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\Clicked.png
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\MonopolyGameFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\FInalBoard.png
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\MonopolyGameFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\Hover.png
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\MonopolyGameFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\Hoverbuy.png
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\MonopolyGameFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\NoBuy.png
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\MonopolyGameFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\OwnerBlue.png
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\MonopolyGameFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\OwnerRed.png
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\MonopolyGameFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\pawn_blue.png
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\MonopolyGameFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\pawn_red.png
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\MonopolyGameFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\Arial.xnb
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\MonopolyGameFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\MonopolyGame.exe
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\MonopolyGameFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\MonopolyGame.pdb
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\MonopolyGameFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\MonopolyGameFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.dll
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\MonopolyGameFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\MonopolyGameFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\MonopolyGameFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\MonopolyGameFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\MonopolyGameFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\Lidgren.Network.dll
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\MonopolyGameFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\MonopolyGameFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\MonopolyGameFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\MonopolyGameFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\MonopolyGameFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.xml
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\MonopolyGameFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\MonopolyGameFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\MonopolyGameFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\MonopolyGameFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\MonopolyGameFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\MonopolyGameFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\MonopolyGameFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\M18x\Documents\Visual Studio 2012\Projects\MonopolyGameMerge\MonopolyGame\MonopolyGameFinal\MonopolyGame\MonopolyGame\obj\x86\Debug\MonopolyGame.csprojResolveAssemblyReference.cache
+C:\Users\M18x\Documents\TelerikAcademy\C# part 2\MonopolyGameFinal\MonopolyGame\TEAMBLADEMonopolyFinal\MonopolyGame\MonopolyGame\obj\x86\Debug\MonopolyGame.exe
+C:\Users\M18x\Documents\TelerikAcademy\C# part 2\MonopolyGameFinal\MonopolyGame\TEAMBLADEMonopolyFinal\MonopolyGame\MonopolyGame\obj\x86\Debug\MonopolyGame.pdb
+C:\Users\M18x\Documents\TelerikAcademy\C# part 2\MonopolyGameFinal\MonopolyGame\TEAMBLADEMonopolyFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\1.png
+C:\Users\M18x\Documents\TelerikAcademy\C# part 2\MonopolyGameFinal\MonopolyGame\TEAMBLADEMonopolyFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\2.png
+C:\Users\M18x\Documents\TelerikAcademy\C# part 2\MonopolyGameFinal\MonopolyGame\TEAMBLADEMonopolyFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\3.png
+C:\Users\M18x\Documents\TelerikAcademy\C# part 2\MonopolyGameFinal\MonopolyGame\TEAMBLADEMonopolyFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\4.png
+C:\Users\M18x\Documents\TelerikAcademy\C# part 2\MonopolyGameFinal\MonopolyGame\TEAMBLADEMonopolyFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\5.png
+C:\Users\M18x\Documents\TelerikAcademy\C# part 2\MonopolyGameFinal\MonopolyGame\TEAMBLADEMonopolyFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\6.png
+C:\Users\M18x\Documents\TelerikAcademy\C# part 2\MonopolyGameFinal\MonopolyGame\TEAMBLADEMonopolyFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\Active.png
+C:\Users\M18x\Documents\TelerikAcademy\C# part 2\MonopolyGameFinal\MonopolyGame\TEAMBLADEMonopolyFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\Buy.png
+C:\Users\M18x\Documents\TelerikAcademy\C# part 2\MonopolyGameFinal\MonopolyGame\TEAMBLADEMonopolyFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\BuyClicked.png
+C:\Users\M18x\Documents\TelerikAcademy\C# part 2\MonopolyGameFinal\MonopolyGame\TEAMBLADEMonopolyFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\Clicked.png
+C:\Users\M18x\Documents\TelerikAcademy\C# part 2\MonopolyGameFinal\MonopolyGame\TEAMBLADEMonopolyFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\FInalBoard.png
+C:\Users\M18x\Documents\TelerikAcademy\C# part 2\MonopolyGameFinal\MonopolyGame\TEAMBLADEMonopolyFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\Hover.png
+C:\Users\M18x\Documents\TelerikAcademy\C# part 2\MonopolyGameFinal\MonopolyGame\TEAMBLADEMonopolyFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\Hoverbuy.png
+C:\Users\M18x\Documents\TelerikAcademy\C# part 2\MonopolyGameFinal\MonopolyGame\TEAMBLADEMonopolyFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\NoBuy.png
+C:\Users\M18x\Documents\TelerikAcademy\C# part 2\MonopolyGameFinal\MonopolyGame\TEAMBLADEMonopolyFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\OwnerBlue.png
+C:\Users\M18x\Documents\TelerikAcademy\C# part 2\MonopolyGameFinal\MonopolyGame\TEAMBLADEMonopolyFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\OwnerRed.png
+C:\Users\M18x\Documents\TelerikAcademy\C# part 2\MonopolyGameFinal\MonopolyGame\TEAMBLADEMonopolyFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\pawn_blue.png
+C:\Users\M18x\Documents\TelerikAcademy\C# part 2\MonopolyGameFinal\MonopolyGame\TEAMBLADEMonopolyFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\pawn_red.png
+C:\Users\M18x\Documents\TelerikAcademy\C# part 2\MonopolyGameFinal\MonopolyGame\TEAMBLADEMonopolyFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\Content\Arial.xnb
+C:\Users\M18x\Documents\TelerikAcademy\C# part 2\MonopolyGameFinal\MonopolyGame\TEAMBLADEMonopolyFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\MonopolyGame.exe
+C:\Users\M18x\Documents\TelerikAcademy\C# part 2\MonopolyGameFinal\MonopolyGame\TEAMBLADEMonopolyFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\MonopolyGame.pdb
+C:\Users\M18x\Documents\TelerikAcademy\C# part 2\MonopolyGameFinal\MonopolyGame\TEAMBLADEMonopolyFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\M18x\Documents\TelerikAcademy\C# part 2\MonopolyGameFinal\MonopolyGame\TEAMBLADEMonopolyFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.dll
+C:\Users\M18x\Documents\TelerikAcademy\C# part 2\MonopolyGameFinal\MonopolyGame\TEAMBLADEMonopolyFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\M18x\Documents\TelerikAcademy\C# part 2\MonopolyGameFinal\MonopolyGame\TEAMBLADEMonopolyFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\M18x\Documents\TelerikAcademy\C# part 2\MonopolyGameFinal\MonopolyGame\TEAMBLADEMonopolyFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\M18x\Documents\TelerikAcademy\C# part 2\MonopolyGameFinal\MonopolyGame\TEAMBLADEMonopolyFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\M18x\Documents\TelerikAcademy\C# part 2\MonopolyGameFinal\MonopolyGame\TEAMBLADEMonopolyFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\Lidgren.Network.dll
+C:\Users\M18x\Documents\TelerikAcademy\C# part 2\MonopolyGameFinal\MonopolyGame\TEAMBLADEMonopolyFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\M18x\Documents\TelerikAcademy\C# part 2\MonopolyGameFinal\MonopolyGame\TEAMBLADEMonopolyFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\M18x\Documents\TelerikAcademy\C# part 2\MonopolyGameFinal\MonopolyGame\TEAMBLADEMonopolyFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\M18x\Documents\TelerikAcademy\C# part 2\MonopolyGameFinal\MonopolyGame\TEAMBLADEMonopolyFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\M18x\Documents\TelerikAcademy\C# part 2\MonopolyGameFinal\MonopolyGame\TEAMBLADEMonopolyFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.xml
+C:\Users\M18x\Documents\TelerikAcademy\C# part 2\MonopolyGameFinal\MonopolyGame\TEAMBLADEMonopolyFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\M18x\Documents\TelerikAcademy\C# part 2\MonopolyGameFinal\MonopolyGame\TEAMBLADEMonopolyFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\M18x\Documents\TelerikAcademy\C# part 2\MonopolyGameFinal\MonopolyGame\TEAMBLADEMonopolyFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\M18x\Documents\TelerikAcademy\C# part 2\MonopolyGameFinal\MonopolyGame\TEAMBLADEMonopolyFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\M18x\Documents\TelerikAcademy\C# part 2\MonopolyGameFinal\MonopolyGame\TEAMBLADEMonopolyFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\M18x\Documents\TelerikAcademy\C# part 2\MonopolyGameFinal\MonopolyGame\TEAMBLADEMonopolyFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\M18x\Documents\TelerikAcademy\C# part 2\MonopolyGameFinal\MonopolyGame\TEAMBLADEMonopolyFinal\MonopolyGame\MonopolyGame\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\M18x\Documents\TelerikAcademy\C# part 2\MonopolyGameFinal\MonopolyGame\TEAMBLADEMonopolyFinal\MonopolyGame\MonopolyGame\obj\x86\Debug\MonopolyGame.csprojResolveAssemblyReference.cache
+C:\Users\M18x\Documents\TelerikAcademy\C# part 2\MonopolyGameFinal\MonopolyGame\TEAMBLADEMonopolyFinal\MonopolyGame\MonopolyGame\MonopolyGame\obj\x86\Debug\MonopolyGame.exe
+C:\Users\M18x\Documents\TelerikAcademy\C# part 2\MonopolyGameFinal\MonopolyGame\TEAMBLADEMonopolyFinal\MonopolyGame\MonopolyGame\MonopolyGame\obj\x86\Debug\MonopolyGame.pdb
